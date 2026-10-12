@@ -9,4 +9,4 @@ I'm Ian Yang, a software developer.
 - Email: [GPG](https://u.iany.me/gpg)
 - Twitter: [@doitian][twitter]
 
-[twitter]:	https://twitter.com/doitia
+[twitter]:	https://twitter.com/doitian
