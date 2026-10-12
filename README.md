@@ -7,6 +7,6 @@ I'm Ian Yang, a software developer.
 <img align="right" width="100" height="100" src="ian-link-in-qrcode-bio.png">
 
 - Email: [GPG](https://u.iany.me/gpg)
-- Twitter: [@doitian][twitter]
+- X: [@doitian][twitter]
 
-[twitter]:	https://twitter.com/doitian
+[twitter]:	[https://x.com/doitian](https://x.com/doitian)
